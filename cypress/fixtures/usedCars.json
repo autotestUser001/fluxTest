@@ -1,0 +1,694 @@
+{
+  "Name": "Cars",
+  "Number": "0001-0268-",
+  "Path": "/Trade-Me-Motors/Cars",
+  "Subcategories": [
+    {
+      "Name": "Alfa Romeo",
+      "Number": "0001-0268-0269-",
+      "Path": "/Trade-Me-Motors/Cars/Alfa-Romeo",
+      "Count": 137,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Aston Martin",
+      "Number": "0001-0268-0270-",
+      "Path": "/Trade-Me-Motors/Cars/Aston-Martin",
+      "Count": 61,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Audi",
+      "Number": "0001-0268-0271-",
+      "Path": "/Trade-Me-Motors/Cars/Audi",
+      "Count": 2395,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Austin",
+      "Number": "0001-0268-0272-",
+      "Path": "/Trade-Me-Motors/Cars/Austin",
+      "Count": 44,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Bentley",
+      "Number": "0001-0268-7081-",
+      "Path": "/Trade-Me-Motors/Cars/Bentley",
+      "Count": 46,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "BMW",
+      "Number": "0001-0268-0275-",
+      "Path": "/Trade-Me-Motors/Cars/BMW",
+      "Count": 3888,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Cadillac",
+      "Number": "0001-0268-0278-",
+      "Path": "/Trade-Me-Motors/Cars/Cadillac",
+      "Count": 27,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Chery",
+      "Number": "0001-0268-9976-",
+      "Path": "/Trade-Me-Motors/Cars/Chery",
+      "Count": 38,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Chevrolet",
+      "Number": "0001-0268-0280-",
+      "Path": "/Trade-Me-Motors/Cars/Chevrolet",
+      "Count": 485,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Chrysler",
+      "Number": "0001-0268-0281-",
+      "Path": "/Trade-Me-Motors/Cars/Chrysler",
+      "Count": 179,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Citroen",
+      "Number": "0001-0268-0282-",
+      "Path": "/Trade-Me-Motors/Cars/Citroen",
+      "Count": 159,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Cupra",
+      "Number": "0001-0268-5609-",
+      "Path": "/Trade-Me-Motors/Cars/Cupra",
+      "Count": 3,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Daewoo",
+      "Number": "0001-0268-0283-",
+      "Path": "/Trade-Me-Motors/Cars/Daewoo",
+      "Count": 3,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Daihatsu",
+      "Number": "0001-0268-0285-",
+      "Path": "/Trade-Me-Motors/Cars/Daihatsu",
+      "Count": 126,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Daimler",
+      "Number": "0001-0268-7080-",
+      "Path": "/Trade-Me-Motors/Cars/Daimler",
+      "Count": 15,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Dodge",
+      "Number": "0001-0268-0287-",
+      "Path": "/Trade-Me-Motors/Cars/Dodge",
+      "Count": 243,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "DS Automobiles",
+      "Number": "0001-0268-5680-",
+      "Path": "/Trade-Me-Motors/Cars/DS-Automobiles",
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Ferrari",
+      "Number": "0001-0268-0290-",
+      "Path": "/Trade-Me-Motors/Cars/Ferrari",
+      "Count": 50,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Fiat",
+      "Number": "0001-0268-0291-",
+      "Path": "/Trade-Me-Motors/Cars/Fiat",
+      "Count": 123,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Ford",
+      "Number": "0001-0268-0292-",
+      "Path": "/Trade-Me-Motors/Cars/Ford",
+      "Count": 4900,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Foton",
+      "Number": "0001-0268-9971-",
+      "Path": "/Trade-Me-Motors/Cars/Foton",
+      "Count": 37,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Geely",
+      "Number": "0001-0268-9529-",
+      "Path": "/Trade-Me-Motors/Cars/Geely",
+      "Count": 2,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "GMC",
+      "Number": "0001-0268-9975-",
+      "Path": "/Trade-Me-Motors/Cars/GMC",
+      "Count": 25,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Great Wall",
+      "Number": "0001-0268-9162-",
+      "Path": "/Trade-Me-Motors/Cars/Great-Wall",
+      "Count": 134,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "HAVAL",
+      "Number": "0001-0268-5608-",
+      "Path": "/Trade-Me-Motors/Cars/HAVAL",
+      "Count": 88,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Holden",
+      "Number": "0001-0268-0297-",
+      "Path": "/Trade-Me-Motors/Cars/Holden",
+      "Count": 4157,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Honda",
+      "Number": "0001-0268-0298-",
+      "Path": "/Trade-Me-Motors/Cars/Honda",
+      "Count": 4446,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Hummer",
+      "Number": "0001-0268-1703-",
+      "Path": "/Trade-Me-Motors/Cars/Hummer",
+      "Count": 8,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Hyundai",
+      "Number": "0001-0268-0300-",
+      "Path": "/Trade-Me-Motors/Cars/Hyundai",
+      "Count": 1995,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "INFINITI",
+      "Number": "0001-0268-5682-",
+      "Path": "/Trade-Me-Motors/Cars/INFINITI",
+      "Count": 8,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Isuzu",
+      "Number": "0001-0268-0301-",
+      "Path": "/Trade-Me-Motors/Cars/Isuzu",
+      "Count": 493,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Iveco",
+      "Number": "0001-0268-5677-",
+      "Path": "/Trade-Me-Motors/Cars/Iveco",
+      "Count": 16,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Jaguar",
+      "Number": "0001-0268-0302-",
+      "Path": "/Trade-Me-Motors/Cars/Jaguar",
+      "Count": 510,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Jeep",
+      "Number": "0001-0268-0304-",
+      "Path": "/Trade-Me-Motors/Cars/Jeep",
+      "Count": 623,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Kia",
+      "Number": "0001-0268-0305-",
+      "Path": "/Trade-Me-Motors/Cars/Kia",
+      "Count": 1199,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Lamborghini",
+      "Number": "0001-0268-7013-",
+      "Path": "/Trade-Me-Motors/Cars/Lamborghini",
+      "Count": 23,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Lancia",
+      "Number": "0001-0268-5684-",
+      "Path": "/Trade-Me-Motors/Cars/Lancia",
+      "Count": 2,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Land Rover",
+      "Number": "0001-0268-0306-",
+      "Path": "/Trade-Me-Motors/Cars/Land-Rover",
+      "Count": 812,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "LDV",
+      "Number": "0001-0268-9974-",
+      "Path": "/Trade-Me-Motors/Cars/LDV",
+      "Count": 208,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Lexus",
+      "Number": "0001-0268-0307-",
+      "Path": "/Trade-Me-Motors/Cars/Lexus",
+      "Count": 877,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Lotus",
+      "Number": "0001-0268-0308-",
+      "Path": "/Trade-Me-Motors/Cars/Lotus",
+      "Count": 15,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Mahindra",
+      "Number": "0001-0268-9973-",
+      "Path": "/Trade-Me-Motors/Cars/Mahindra",
+      "Count": 42,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Maserati",
+      "Number": "0001-0268-0309-",
+      "Path": "/Trade-Me-Motors/Cars/Maserati",
+      "Count": 107,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Mazda",
+      "Number": "0001-0268-0310-",
+      "Path": "/Trade-Me-Motors/Cars/Mazda",
+      "Count": 7432,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "McLaren",
+      "Number": "0001-0268-5605-",
+      "Path": "/Trade-Me-Motors/Cars/McLaren",
+      "Count": 19,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Mercedes-Benz",
+      "Number": "0001-0268-0311-",
+      "Path": "/Trade-Me-Motors/Cars/MercedesBenz",
+      "Count": 2540,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "MG",
+      "Number": "0001-0268-0312-",
+      "Path": "/Trade-Me-Motors/Cars/MG",
+      "Count": 153,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "MINI",
+      "Number": "0001-0268-0313-",
+      "Path": "/Trade-Me-Motors/Cars/MINI",
+      "Count": 602,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Mitsubishi",
+      "Number": "0001-0268-0314-",
+      "Path": "/Trade-Me-Motors/Cars/Mitsubishi",
+      "Count": 3800,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Morgan",
+      "Number": "0001-0268-5606-",
+      "Path": "/Trade-Me-Motors/Cars/Morgan",
+      "Count": 7,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Morris",
+      "Number": "0001-0268-0315-",
+      "Path": "/Trade-Me-Motors/Cars/Morris",
+      "Count": 35,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Nissan",
+      "Number": "0001-0268-0316-",
+      "Path": "/Trade-Me-Motors/Cars/Nissan",
+      "Count": 10011,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Opel",
+      "Number": "0001-0268-0317-",
+      "Path": "/Trade-Me-Motors/Cars/Opel",
+      "Count": 22,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Peugeot",
+      "Number": "0001-0268-0318-",
+      "Path": "/Trade-Me-Motors/Cars/Peugeot",
+      "Count": 522,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Pontiac",
+      "Number": "0001-0268-4153-",
+      "Path": "/Trade-Me-Motors/Cars/Pontiac",
+      "Count": 37,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Porsche",
+      "Number": "0001-0268-0320-",
+      "Path": "/Trade-Me-Motors/Cars/Porsche",
+      "Count": 368,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Ram",
+      "Number": "0001-0268-5681-",
+      "Path": "/Trade-Me-Motors/Cars/Ram",
+      "Count": 43,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Renault",
+      "Number": "0001-0268-0325-",
+      "Path": "/Trade-Me-Motors/Cars/Renault",
+      "Count": 211,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Riley",
+      "Number": "0001-0268-5679-",
+      "Path": "/Trade-Me-Motors/Cars/Riley",
+      "Count": 5,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Rolls-Royce",
+      "Number": "0001-0268-0326-",
+      "Path": "/Trade-Me-Motors/Cars/RollsRoyce",
+      "Count": 23,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Rover",
+      "Number": "0001-0268-0327-",
+      "Path": "/Trade-Me-Motors/Cars/Rover",
+      "Count": 53,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Saab",
+      "Number": "0001-0268-0328-",
+      "Path": "/Trade-Me-Motors/Cars/Saab",
+      "Count": 36,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "SEAT",
+      "Number": "0001-0268-9977-",
+      "Path": "/Trade-Me-Motors/Cars/SEAT",
+      "Count": 32,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Skoda",
+      "Number": "0001-0268-5583-",
+      "Path": "/Trade-Me-Motors/Cars/Skoda",
+      "Count": 277,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Smart",
+      "Number": "0001-0268-5584-",
+      "Path": "/Trade-Me-Motors/Cars/Smart",
+      "Count": 15,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Ssangyong",
+      "Number": "0001-0268-0331-",
+      "Path": "/Trade-Me-Motors/Cars/Ssangyong",
+      "Count": 458,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Subaru",
+      "Number": "0001-0268-0332-",
+      "Path": "/Trade-Me-Motors/Cars/Subaru",
+      "Count": 3580,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Suzuki",
+      "Number": "0001-0268-0333-",
+      "Path": "/Trade-Me-Motors/Cars/Suzuki",
+      "Count": 2820,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Tesla",
+      "Number": "0001-0268-5607-",
+      "Path": "/Trade-Me-Motors/Cars/Tesla",
+      "Count": 10,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Toyota",
+      "Number": "0001-0268-0334-",
+      "Path": "/Trade-Me-Motors/Cars/Toyota",
+      "Count": 16361,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Triumph",
+      "Number": "0001-0268-0335-",
+      "Path": "/Trade-Me-Motors/Cars/Triumph",
+      "Count": 29,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "TVR",
+      "Number": "0001-0268-5678-",
+      "Path": "/Trade-Me-Motors/Cars/TVR",
+      "Count": 4,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Vauxhall",
+      "Number": "0001-0268-9972-",
+      "Path": "/Trade-Me-Motors/Cars/Vauxhall",
+      "Count": 27,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Volkswagen",
+      "Number": "0001-0268-0336-",
+      "Path": "/Trade-Me-Motors/Cars/Volkswagen",
+      "Count": 3153,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Volvo",
+      "Number": "0001-0268-0337-",
+      "Path": "/Trade-Me-Motors/Cars/Volvo",
+      "Count": 595,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    },
+    {
+      "Name": "Other",
+      "Number": "0001-0268-1492-",
+      "Path": "/Trade-Me-Motors/Cars/Other",
+      "Count": 115,
+      "HasClassifieds": true,
+      "AreaOfBusiness": 3,
+      "IsLeaf": true
+    }
+  ],
+  "Count": 82144,
+  "HasClassifieds": true,
+  "AreaOfBusiness": 3,
+  "IsLeaf": false
+}

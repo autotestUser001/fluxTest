@@ -20,7 +20,7 @@ describe('Trade me used cars category api tests', () => {
                  kiaCount = brand.Count;       
           });
           expect(brandNames).to.include('Kia');
-          cy.task('log', 'Number of Kias = ' + kiaCount);           
+          cy.task('log', 'Number of Kia cars = ' + kiaCount);           
       });           
   });
  
