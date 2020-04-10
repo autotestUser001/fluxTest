@@ -22,7 +22,7 @@ The tests are written using Cypress JavaScript and runs in a NodeJS environment.
 
    *cd fluxTest*
 
-4. The URLThe tests can be run from Cypress Test Runner or command line.
+4. The tests can be run from Cypress Test Runner or command line.
 
    To run the test from Cypress Test Runner, type the following command:
 
