@@ -28,7 +28,7 @@ The tests are written using Cypress JavaScript and runs in a NodeJS environment.
 
    *npx cypress open* 
 
-   then run the trademe_usedcars_spec script in the integration folder.
+   then run the trademe_usedcars_spec script in the integration folder, click each test to see the result.
 
    To run the test from command line, maximize the command prompt , then type the following command:
 
