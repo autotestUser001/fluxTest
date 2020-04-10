@@ -12,7 +12,7 @@ The tests are written using Cypress JavaScript and runs in a NodeJS environment.
 
 1. Download and install NodeJS into your operating system, using this link: https://nodejs.org/
 
-2. Install cypress using the instruction from Cypress - https://docs.cypress.io/guides/getting-started/installing-cypress.
+2. Install cypress using the instruction from Cypress - https://docs.cypress.io/guides/getting-started/installing-cypress.html
 
 3. The URL for browsing the code on GitHUB is https://github.com/autotestUser001/fluxTest
 
