@@ -12,7 +12,7 @@ The tests are written using Cypress JavaScript and runs in a NodeJS environment.
 
 1. Download and install NodeJS into your operating system, using this link: https://nodejs.org/
 
-2. Install cypress using the instruction from Cypress - https://docs.cypress.io/guides/getting-started/installing-cypress.html
+2. Install cypress using the instructions from Cypress - https://docs.cypress.io/guides/getting-started/installing-cypress.html
 
 3. The URL for browsing the code on GitHUB is https://github.com/autotestUser001/fluxTest
 
@@ -30,7 +30,7 @@ The tests are written using Cypress JavaScript and runs in a NodeJS environment.
 
    then run the trademe_usedcars_spec script in the integration folder, click each test to see the result.
 
-   To run the test from command line, maximize the command prompt , then type the following command:
+   To run the test from command line, maximize the command prompt, then type the following command:
 
    *npx cypress run cypress/integration/trademe_usedcars_spec.js*
 
