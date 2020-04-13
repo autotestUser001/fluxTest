@@ -1,16 +1,19 @@
 describe('Trade me used cars category api tests', () => {	
-  //const apiRoot = 'https://api.tmsandbox.co.nz/v1/';  
-  const apiRoot = 'https://api.trademe.co.nz/v1/';  
- 
+   //const apiRoot = 'https://api.tmsandbox.co.nz/v1/';  
+   const apiRoot = 'https://api.trademe.co.nz/v1/'; 
+   beforeEach(() => {
+     cy.request(apiRoot + 'Categories/UsedCars.json?with_counts=true').as('usedCarRequest'); 
+   });
+  
   it('Return the number of used car brands from the TradeMe UsedCars category api', () => {
-     cy.request(apiRoot + 'Categories/UsedCars.json' ).then((response) => {
+     cy.get('@usedCarRequest').then((response) => {
         let brandCount = response.body.Subcategories.length; 
         cy.task('log', 'Number of used car brands = '+ brandCount);
      });        
   });
    
   it('Return the number of Kia cars from the TradeMe UsedCars category', () => {    
-     cy.request(apiRoot + 'Categories/UsedCars.json?with_counts=true' ).then((response) => {
+    cy.get('@usedCarRequest').then((response) => {
           let usedCarsArray = response.body.Subcategories;
           let kiaCount   = 0;
           let brandNames = [];
@@ -25,7 +28,7 @@ describe('Trade me used cars category api tests', () => {
   });
  
   it('Expect the brand "Hispano Suiza" does not exist.', () => {    
-      cy.request(apiRoot + 'Categories/UsedCars.json?with_counts=true' ).then((response) => {
+      cy.get('@usedCarRequest').then((response) => {
           let usedCarsArray = response.body.Subcategories;
           let brandNames = [];
           usedCarsArray.forEach( (brand) => {
